@@ -1,0 +1,13 @@
+@import url('https://fonts.googleapis.com/css2?family=Yantramanav:wght@900&display=swap');
+
+.loginbutton{
+    background-color: #0F9BF2 !important;
+}
+.register{
+    color: #0F9BF2 !important;
+    font-size: 18px;
+}
+.lem{
+    font-family: 'Yantramanav', sans-serif !important;
+    color: white;
+}

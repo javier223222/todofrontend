@@ -14,7 +14,7 @@ const AppRouter =() => {
             <Route index Component={Login}></Route>
             <Route path='/register' Component={Register}></Route>
         </Route>
-        <Route element={PrivateRoute}>
+        <Route element={<PrivateRoute></PrivateRoute>}>
             <Route path='/home' Component={Home}></Route>
         </Route>
 

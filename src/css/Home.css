@@ -1,0 +1,255 @@
+.elements{
+    margin-top: 5rem;
+    
+}
+.hamburguer{
+    cursor: pointer;
+}
+.tittlee{
+    font-weight: bold;
+    font-size: 25px;
+}
+.dgdg{
+    margin-left: 1rem;
+}
+.move{
+    margin-left: 1rem !important;
+}
+.move2{
+    margin-left: 22rem !important;
+}
+
+.date{
+    margin-left: 1rem;
+}
+.visibible{
+    visibility: visible;
+}
+.novisible{
+    visibility: hidden;
+}
+.general{
+    margin-top: -6rem ;
+   
+    width: 330px !important;
+   
+    border-radius: 3px;
+    height: 732px;
+}
+
+.boxtarea{
+    width: 80%;
+    border-radius:3px !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: -15rem;
+    margin-left: 10.5rem;
+    
+}
+.box{
+    width: 80%;
+    border-radius:3px !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+}
+.boxnotificacion{
+   
+    
+    border-radius:3px !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+   
+}
+.boxnotificacioncontainer{
+    width: 18%;
+    margin-top: -17rem;
+    margin-left: 86.2rem;
+}
+.boxtareamove{
+    width: 70%;
+    border-radius:3px !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-top: -40rem;
+    margin-left: 25rem;
+   
+    
+}
+.boxmove{
+    width: 70%;
+    border-radius:3px !important;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    margin-left: 19rem;
+}
+.blue{
+    color: #2AB0BF;
+}
+.bluetwo{
+    color: #0F9BF2;
+}
+
+.addcol{
+    color: #2AB0BF;
+    cursor: pointer;
+    top: 8px;
+    position: relative;
+}
+.color{
+    color: darkgray !important;
+    cursor: not-allowed !important;
+}
+.marginbutton{
+    margin-left: 55rem !important;
+    border-color: darkgray !important;
+}
+.colortwo{
+    color: #0F9BF2 !important;
+}
+.addwork{
+    color:#0F9BF2;
+    top: 8px;
+    position: relative;
+    cursor: pointer;
+}
+.novisbility{
+    visibility: hidden;
+}
+.addtar{
+    outline: none;
+    width: 90%;
+    border: 0;
+ 
+    margin-left: -7rem;
+}
+.dates{
+
+   
+    margin-top: 5px;
+    margin-left: 10rem;
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 240px;
+}
+.height{
+    height: 300px;
+    margin-top:-13rem !important;
+}
+.today{
+  margin-left:9rem ;
+}
+.tomorrow{
+    margin-left: 7rem;
+}
+.nextwee{
+    margin-left: 3.5rem;
+}
+.lineselectfe{
+    margin-top: -1rem;
+}
+
+.daym{
+    margin-left: 9rem;
+}
+.containerday{
+    cursor: pointer;
+}
+.dates h1{
+    font-size: 20px;
+}
+.line{
+    margin-top: -10px;
+}
+.pointer{
+    cursor: pointer;
+}
+.red{
+    color: red;
+    
+}
+.delete{
+    cursor: pointer;
+    margin-top: 30px;
+}
+.datese{
+    margin-top: 2px !important;
+}
+.deletep{
+ position: relative;
+ top: 6px;
+}
+.inputcalendar{
+    width: 70% !important;
+}
+.colordate{
+    color: #0F9BF2;
+    margin-top: 1rem;
+}
+.add-date{
+    background-color: #0F9BF2 !important;
+    margin-top: 10rem !important;
+}
+.fill{
+    height: 300px;
+    margin-top:-18rem !important;
+}
+.notifacion{
+    box-shadow: rgba(0, 0, 0, 0.24) 0px 3px 8px;
+    width: 290px;
+    margin-top: -470px !important;
+    margin-left: 6rem;
+}
+.titless{
+    font-size: 20px;
+}
+.linevenc{
+    margin-top: 5rem;
+}
+.posi{
+    
+}
+.sman{
+    margin-left: 14px;
+}
+.smanmoth{
+    margin-left: -18px;
+}
+.posibox{
+    margin-top: -39rem !important;
+}
+.margende{
+    margin-top: -47rem;
+}
+.marstart{
+    margin-left: 76% !important;
+    position: absolute;
+}
+.marstarttwo{
+    margin-left: 68% !important;
+    position: absolute;
+}
+.nametodod{
+    position: relative;
+    top: 20px;
+}
+.linecubetodo{
+    width: 70% !important;
+    margin-top: 2rem;
+    position: absolute  ;
+}
+.linecubetodotwo{
+    width: 65% !important;
+    margin-top: 2rem;
+    position: absolute  ;
+}
+.linedos{
+    width: 80%;
+}
+.linethree{
+    width: 70%;
+    margin-left: 18rem !important;
+}
+.moverone{
+    margin-left: -78rem;
+    position: relative;
+    top: 2rem;
+}
+.movertwho{
+    margin-left: -50rem;
+    position: relative;
+    top: 2rem;
+}
