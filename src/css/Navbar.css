@@ -1,0 +1,25 @@
+.bgnav{
+    background-color: #0F9BF2 !important;
+}
+.navcolor{
+    color: white !important;
+
+}
+.barsearch{
+
+    background-image: url("../assets/img/search_FILL0_wght400_GRAD0_opsz48.svg") !important;
+    background-repeat: no-repeat;
+   background-position: -1px center;
+    background-size: 2rem;
+    text-align: center;
+}
+.barsearch:hover{
+
+height: 2.5rem;
+border-color: #2AB0BF;
+}
+@media only screen and (min-width: 1300px) {
+    .navbaritemr{
+        margin-left: -5rem !important;
+    }
+  }
